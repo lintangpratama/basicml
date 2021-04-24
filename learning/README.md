@@ -2,7 +2,8 @@ This folder contain my ML learning path.
 
 1. Data Preparation
    In this part, preprocessing is performed before it is used for the main model
-   - Converting data to the dataframes\n
+   - Converting data to the dataframes
+   <p></p>
      Using pandas module to read the data and transform it into the dataframes
    - Scaling the data using normalization (transforming data to 0-1 range) and standardization (transforming data using Z-score)
      Normalization using MinMaxScaler class and standardization using StandardScaler class from sklearn.preprocessing module  
